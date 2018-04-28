@@ -10,6 +10,6 @@ Il s'agit d'un jeu point'n click ou vous incarnez un passant découvrant les mys
 
 ## Auteurs
 
-* **Le Ven Vincent:** - Développeur C# - [Itch.Io](https://vincent-le-ven.itch.io/)
+* **Le Ven Vincent** - Développeur C# - [Itch.Io](https://vincent-le-ven.itch.io/)
 * **Dinant Arthur** - Artiste - [Behance](https://www.behance.net/arthurdinant)
 * **Guillaume Haerinck** - Développeur C# - [Portfolio](http://guillaumehaerinck.com/)
